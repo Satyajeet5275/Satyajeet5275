@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satyajit Gaikwad</h1>
 <h3 align="center">Software engineer with excellent problem-solving skills, coupled with the ability to grow and excel in collaborative team environments.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajeet5275&label=Profile%20views&color=0e75b6&style=flat" alt="satyajeet5275" /> </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=satyajeet5275&label=Profile%20views&color=0e75b6&style=flat" alt="satyajeet5275" /> </p>
+
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🔭 I’m currently Studying at **Walchand College of Engineering, Sangli**
