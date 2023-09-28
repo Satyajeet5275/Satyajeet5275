@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🔭 I’m currently Studying at **Walchand College of Engineering, Sangli**
+- 🔭 I’m currently studying at **Walchand College of Engineering, Sangli**
 
 - 👨‍💻 Personal portfolio [https://satyajeet5275.github.io/Personal-Website/](https://satyajeet5275.github.io/Personal-Website/)
 
